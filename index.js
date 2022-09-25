@@ -73,7 +73,3 @@ function startOver() {
     gamePattern = [];
     started = false;
   }
-// $(document).one('keypress', function(){
-//     $('#level-title').html("Level"+" "+ level)
-//     nextSequence()
-// })
